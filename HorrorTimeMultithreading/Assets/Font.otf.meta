@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e6dfb95b220a36a4a82062eaf5dbb42c
+timeCreated: 1509041491
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 1
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nightmare 5(RUS BY LYAJKA)
+  fontNames:
+  - Nightmare 5
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
